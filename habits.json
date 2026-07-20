@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "name": "йцук",
+        "completed": true,
+        "date_created": " 2026-07-20"
+    },
+    {
+        "name": "qweg",
+        "completed": false,
+        "date_created": " 2026-07-20"
+    }
+]
